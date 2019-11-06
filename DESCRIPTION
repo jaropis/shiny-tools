@@ -1,0 +1,9 @@
+Package: shinynarzedzia
+Version: 0.01
+Date: 10/10/2014
+Title: Jaroslaw Piskorski shinynarzedzia
+Description: Funkcje uzywane przy budowie przegladarkowych programow
+    statystycznych
+Author: Jaroslaw Piskorski <jaropis@zg. .pl>
+Maintainer: Jaroslaw Piskorski <jaropis@zg.home.pl>
+RoxygenNote: 5.0.1
