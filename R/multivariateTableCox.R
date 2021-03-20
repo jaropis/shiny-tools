@@ -63,7 +63,7 @@ plotForest <- function(fullResults){
                              c("", "HR", as.character(round(fullResults[,1],2))),
                              c("", "lower", as.character(round(fullResults[,3],2))),
                              c("", "upper", as.character(round(fullResults[,4],2))))
-    forestplot(textTable, c(NA,NA,fullResults[,1]), c(NA,NA,fullResults[,3]),c(NA,NA,fullResults[,4]), zero=1, col=meta.colors(box="royalblue",line="darkblue", summary="royalblue"))
+    forestplot(textTable, c(NA,NA,fullResults[,1]), c(NA,NA,fullResults[,3]),c(NA,NA,fullResults[,4]), zero=1, col=forestplot::fpColors())
     #dev.off()
 }
 
