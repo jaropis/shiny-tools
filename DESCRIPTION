@@ -4,6 +4,7 @@ Date: 10/10/2014
 Title: Jaroslaw Piskorski shinynarzedzia
 Description: Funkcje uzywane przy budowie przegladarkowych programow
     statystycznych
+Depends: rmeta
 Author: Jaroslaw Piskorski <jaropis@zg. .pl>
 Maintainer: Jaroslaw Piskorski <jaropis@zg.home.pl>
 Encoding: UTF-8
