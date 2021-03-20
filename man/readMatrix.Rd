@@ -10,8 +10,6 @@ readMatrix(numericInputString)
 }
 \arguments{
 \item{accepts}{a string which is the result of pasting a selection from Excel}
-
-\item{accepts}{a string which is the result of pasting a selection from Excel}
 }
 \value{
 returns a data frame corresponding to the selection in Excel. Interprets whther a column is numeric or factor
@@ -23,4 +21,3 @@ function for reading a data frame copied and pasted from Excel to numericInput s
 
 function for reading a data frame copied and pasted from Excel to numericInput shiny field
 }
-

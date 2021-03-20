@@ -15,4 +15,3 @@ the information line for the "variable name" field in the selected language
 \description{
 the description of the "variable name" field
 }
-

@@ -15,4 +15,3 @@ the information line for the program RunTest_chi_squared
 \description{
 adds the description of the RunTest_chi_squared
 }
-

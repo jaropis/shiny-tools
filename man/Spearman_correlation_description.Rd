@@ -15,4 +15,3 @@ the information line for the program RunTest_Spearman_correlation
 \description{
 adds the description of the RunTest_Spearman_correlation app
 }
-

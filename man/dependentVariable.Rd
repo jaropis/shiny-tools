@@ -15,4 +15,3 @@ the information line for the "dependent variable" field in the selected language
 \description{
 the description of the "dependent variable" field
 }
-

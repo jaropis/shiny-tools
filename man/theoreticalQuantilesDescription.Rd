@@ -15,4 +15,3 @@ the information line for the "theoretical quantiles" axis in the selected langua
 \description{
 the description of the "theoretical quantiles" axis
 }
-

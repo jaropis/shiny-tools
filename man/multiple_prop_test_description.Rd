@@ -15,4 +15,3 @@ the information line for the program RunTest_prop_many
 \description{
 adds the description of the RunTest_prop_many app
 }
-

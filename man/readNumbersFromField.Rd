@@ -10,8 +10,6 @@ readNumbersFromField(listArgument)
 }
 \arguments{
 \item{listArgument}{zawiera liste zwracana przez shiny'ego, zawierajaca to co uzytkownik wkleil/wpisal do okienka}
-
-\item{listArgument}{zawiera liste zwracana przez shiny'ego, zawierajaca to co uzytkownik wkleil/wpisal do okienka}
 }
 \value{
 zwraca wektor zawierajacy numbers z okienka
@@ -23,4 +21,3 @@ odczytuje numbers wklejone lub wpisane do okienka, numbers moga byc z przecinkie
 
 odczytuje numbers wklejone lub wpisane do okienka, numbers moga byc z przecinkiem lub kropka
 }
-

@@ -15,4 +15,3 @@ string stating whether the model contains any statistically significant covariat
 \description{
 takes a multiple logistic regression model and returns the string stating whether the model contains any statistically significant covariates - as a rule there are no whole-model tests or p-values for generalized linear models
 }
-

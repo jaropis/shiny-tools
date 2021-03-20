@@ -10,8 +10,6 @@ readTable2by2(numericInputString)
 }
 \arguments{
 \item{accepts}{a string which is the result of pasting a selection from Excel}
-
-\item{accepts}{a string which is the result of pasting a selection from Excel}
 }
 \value{
 returns a matrix corresponding to the selection in Excel - a
@@ -23,4 +21,3 @@ function for reading a 2x2 table with row and column names
 
 function for reading a 2x2 table with row and column names
 }
-

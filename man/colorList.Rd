@@ -15,4 +15,3 @@ returns the color list in the appropriate language
 \description{
 contains constantst used in building shiny apps, like list of colors, etc.
 }
-

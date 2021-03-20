@@ -15,4 +15,3 @@ returns a data frame corresponding to the selection in Excel. All entriest are s
 \description{
 function for reading a data frame copied and pasted from Excel to numericInput shiny field
 }
-

@@ -15,4 +15,3 @@ the information line for the program RunTest_three_way
 \description{
 adds the description of the RunTest_three_way app
 }
-

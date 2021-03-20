@@ -15,4 +15,3 @@ the information line for the "sample quantiles" axis in the selected language
 \description{
 the description of the "sample quantiles" axis
 }
-

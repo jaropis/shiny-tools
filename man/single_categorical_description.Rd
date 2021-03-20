@@ -15,4 +15,3 @@ the information line for the program RunTest_summary_discrete_single
 \description{
 adds the description of the RunTest_summary_discrete_single app
 }
-

@@ -10,8 +10,6 @@ convergesDoesNotConverge(modelNLS, language = "pl")
 }
 \arguments{
 \item{the}{nls model, the language}
-
-\item{the}{nls model, the language}
 }
 \value{
 either "converges" or "diverges" in the appropriate language
@@ -23,4 +21,3 @@ reports whether the nls algorithm converges
 
 reports whether the nls algorithm converges
 }
-

@@ -15,4 +15,3 @@ the information line for the program RunTest_ordinal_logistic_regression
 \description{
 adds the description of the RunTest_ordinal_logistic_regression app
 }
-

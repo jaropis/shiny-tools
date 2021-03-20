@@ -15,4 +15,3 @@ the information line for the program RunTest_Pearson_correlation
 \description{
 adds the description of the RunTest_Pearson_correlation app
 }
-

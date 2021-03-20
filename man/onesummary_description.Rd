@@ -15,4 +15,3 @@ the information line for the program RunTest_normality_test
 \description{
 adds the description of the RunTest_onesummary app
 }
-

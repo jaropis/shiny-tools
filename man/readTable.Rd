@@ -10,8 +10,6 @@ readTable(numericInputString)
 }
 \arguments{
 \item{accepts}{a string which is the result of pasting a selection from Excel}
-
-\item{accepts}{a string which is the result of pasting a selection from Excel}
 }
 \value{
 returns a contingency table (matrix) corresponding to the selection in Excel .
@@ -23,4 +21,3 @@ function for reading a contingency table copied and pasted from Excel to numeric
 
 function for reading a contingency table copied and pasted from Excel to numericInput shiny field
 }
-

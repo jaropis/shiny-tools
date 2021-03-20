@@ -15,4 +15,3 @@ returns a formatted string column or a string vector with the % sign
 \description{
 this function takes a data.frame column with proportions (possibly from prop.table) and returns a formatted  column with percentages, including the % sign
 }
-

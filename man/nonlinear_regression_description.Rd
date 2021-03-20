@@ -15,4 +15,3 @@ the information line for the program RunTest_nonlinear_reg
 \description{
 adds the description of the RunTest_nonlinear_reg app
 }
-

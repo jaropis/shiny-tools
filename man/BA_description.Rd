@@ -15,4 +15,3 @@ the information line for the program RunTest_Bland_Altman
 \description{
 adds the description of the RunTest_Bland_Altman app
 }
-

@@ -15,4 +15,3 @@ the information line for the "y name" field in the selected language
 \description{
 the description of the "y name" field
 }
-

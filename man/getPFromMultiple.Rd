@@ -15,4 +15,3 @@ numerical p-value
 \description{
 takes a multiple linear regression model and calculates the p-value for the whole model
 }
-

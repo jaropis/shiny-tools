@@ -15,4 +15,3 @@ the information line for the "color select" field in the selected language
 \description{
 the description of the "color select" field
 }
-

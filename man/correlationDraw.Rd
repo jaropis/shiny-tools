@@ -4,8 +4,12 @@
 \alias{correlationDraw}
 \title{rysuje macierz korelacji wraz z linią loess - pozyczylem troche kodu z internetu - musze sprawdzic skad}
 \usage{
-correlationDraw(myDataFrama, tTitle = "", nNames = names(myDataFrama),
-  method = "p")
+correlationDraw(
+  myDataFrama,
+  tTitle = "",
+  nNames = names(myDataFrama),
+  method = "p"
+)
 }
 \arguments{
 \item{przyjmuje}{dataFrame z danymi, tTitle calej analizy, oraz nNames kolumn}
@@ -16,4 +20,3 @@ zwraca rysunek - correlation matrix z odpowiednio sformatowanymi panelami
 \description{
 rysuje macierz korelacji wraz z linią loess - pozyczylem troche kodu z internetu - musze sprawdzic skad
 }
-

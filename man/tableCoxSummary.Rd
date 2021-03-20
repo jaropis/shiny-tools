@@ -15,4 +15,3 @@ table, plot
 \description{
 takes the summary of a Cox model and formats a table with results as wel as plotting the forest plot
 }
-

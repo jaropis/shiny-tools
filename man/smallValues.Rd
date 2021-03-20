@@ -10,8 +10,6 @@ smallValues(small, language = "pl")
 }
 \arguments{
 \item{accepts}{a logical variable, TRUE means that there are small (<5) values in the table}
-
-\item{accepts}{a logical variable, TRUE means that there are small (<5) values in the table}
 }
 \value{
 returns a formatted string
@@ -23,4 +21,3 @@ function for returning a line to the report of ChiSquared if there are small val
 
 function for returning a line to the report of ChiSquared if there are small values in the analysed table
 }
-

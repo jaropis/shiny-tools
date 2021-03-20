@@ -15,4 +15,3 @@ macierz tekstowa z valuesami r/rho (gora) i p (dol)
 \description{
 oblicza values p i cCoefolczynniki r/rho dla macierzy korelacji
 }
-

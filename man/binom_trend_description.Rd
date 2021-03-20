@@ -15,4 +15,3 @@ the information line for the program RunTest_binom_trend
 \description{
 adds the description of the RunTest_binom_trend
 }
-

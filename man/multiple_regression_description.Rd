@@ -15,4 +15,3 @@ the information line for the program RunTest_multiple_regression
 \description{
 adds the description of the RunTest_multiple_regression app
 }
-

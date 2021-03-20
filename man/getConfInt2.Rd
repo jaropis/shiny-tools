@@ -15,4 +15,3 @@ string confidence interval in brackets vector
 \description{
 takes a nX2 vector and formats it as a string vector with confidence interval
 }
-

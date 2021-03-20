@@ -15,4 +15,3 @@ the information line for the program RunTest_wilcoxon_test
 \description{
 adds the description of the RunTest_wilcoxon_test app
 }
-

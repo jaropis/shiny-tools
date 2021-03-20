@@ -4,8 +4,10 @@
 \alias{creationInfo}
 \title{tekst informacyjny}
 \usage{
-
-  creationInfo(tekst = "<br>Program napisany przez <a href=\\"http://imyData.pl\\" target=\\"_blank\\">Jarosław Piskorski-imyData.pl</a>.")
+creationInfo(
+ 
+    tekst = "<br>Program napisany przez <a href=\\"http://imyData.pl\\" target=\\"_blank\\">Jarosław Piskorski-imyData.pl</a>."
+)
 }
 \arguments{
 \item{text}{tekst w HTML do wyswietlenia w panelu shiny'ego}
@@ -16,4 +18,3 @@ funkcja HTML
 \description{
 tekst informacyjny
 }
-

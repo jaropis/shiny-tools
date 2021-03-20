@@ -15,4 +15,3 @@ the description of the "variable no i" field in the selected language
 \description{
 the description of the "variable no i" field
 }
-

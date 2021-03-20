@@ -12,4 +12,3 @@ funkcja SelectInput
 \description{
 Nie przyjmuje parametrow
 }
-

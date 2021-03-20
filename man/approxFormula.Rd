@@ -15,4 +15,3 @@ the description of the "approx formula" field in the selected language
 \description{
 the description of the "approx formula" field in the Marquardt - Levenberg application
 }
-

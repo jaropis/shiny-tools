@@ -15,4 +15,3 @@ the information line for the program RunTest_Marquardt
 \description{
 adds the description of the RunTest_Marquardt app
 }
-

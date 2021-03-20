@@ -10,8 +10,6 @@ decision(p, language = "pl", liczba = "singular")
 }
 \arguments{
 \item{p}{-value, language}
-
-\item{p}{-value, language}
 }
 \value{
 string with the "is" "is not" decision
@@ -23,4 +21,3 @@ takes the decision if a p value indicates statistical significance
 
 takes the decision if a p value indicates statistical significance
 }
-

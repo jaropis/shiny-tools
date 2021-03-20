@@ -15,4 +15,3 @@ whatever poly returns
 \description{
 this is just the poly function without the safeguards on the degree of polyomial, which some consider a bug - in this way I am able to fit the polynomial of order n-1 (n - number of datapoints)
 }
-

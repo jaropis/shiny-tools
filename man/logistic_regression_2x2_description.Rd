@@ -15,4 +15,3 @@ the information line for the program RunTest_log_contingency
 \description{
 adds the description of the RunTest_log_contingency app
 }
-

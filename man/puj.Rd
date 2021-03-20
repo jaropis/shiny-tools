@@ -15,4 +15,3 @@ returns a formated string corresponding to the p-value and RMarkdown setup
 \description{
 function for formating the p-value as it is inserted into text documents
 }
-

@@ -15,4 +15,3 @@ the description of the "independent variable" field in the selected language
 \description{
 the description of the "multiple data entry" field
 }
-

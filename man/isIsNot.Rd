@@ -10,8 +10,6 @@ isIsNot(P, language = "pl")
 }
 \arguments{
 \item{accepts}{a P value}
-
-\item{accepts}{a P value}
 }
 \value{
 returns a formatted string
@@ -23,4 +21,3 @@ function for returning a line to the report of ChiSquared tabel test and Fisher 
 
 function for returning a line to the report of ChiSquared tabel test and Fisher table test
 }
-

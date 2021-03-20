@@ -15,4 +15,3 @@ table
 \description{
 takes the summary of a gee (generalized estimating equations) model and formats a table
 }
-

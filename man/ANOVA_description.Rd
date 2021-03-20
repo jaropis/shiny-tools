@@ -15,4 +15,3 @@ the information line for the program RunTest_ANOVA_one_way
 \description{
 adds the description of the RunTest_ANOVA_one_way app
 }
-

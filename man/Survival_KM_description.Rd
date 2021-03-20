@@ -15,4 +15,3 @@ the information line for the program RunTest_SurvivalSuite_KM
 \description{
 adds the description of the RunTest_SurvivalSuite_KM app
 }
-

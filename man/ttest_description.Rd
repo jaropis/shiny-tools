@@ -15,4 +15,3 @@ the information line for the program RunTest_t_test
 \description{
 adds the description of the RunTest_t_test app
 }
-

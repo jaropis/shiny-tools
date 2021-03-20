@@ -15,4 +15,3 @@ the information line for the "file upload name ad type" field in the selected la
 \description{
 the description of the "file upload" field
 }
-

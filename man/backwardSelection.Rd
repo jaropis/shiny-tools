@@ -15,4 +15,3 @@ the "backward selection" in the appropriate language or an empty string
 \description{
 the description of the "multiple regression" backward selection field
 }
-
