@@ -2,16 +2,16 @@
 % Please edit documentation in R/procentuj.R
 \name{procentuj}
 \alias{procentuj}
-\title{this function takes a data.frame column with proportions (possibly from prop.table) and returns a formatted  column with percentages, including the % sign}
+\title{this function takes a data.frame column with proportions (possibly from prop.table) and returns a formatted  column with percentages, including the percent sign}
 \usage{
 procentuj(column, percent_symbol = TRUE, round_to = 2, sep = " ")
 }
 \arguments{
-\item{accepts}{a data.frame column or a vector, whether to include the percent symbol and whether there should be a space between the number and the % symbol}
+\item{accepts}{a data.frame column or a vector, whether to include the percent symbol and whether there should be a space between the number and the percent symbol}
 }
 \value{
 returns a formatted string column or a string vector with the percent sign
 }
 \description{
-this function takes a data.frame column with proportions (possibly from prop.table) and returns a formatted  column with percentages, including the % sign
+this function takes a data.frame column with proportions (possibly from prop.table) and returns a formatted  column with percentages, including the percent sign
 }
